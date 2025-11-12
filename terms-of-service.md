@@ -60,7 +60,7 @@ LactaMed does not collect, store, or transmit any personal data including:
 
 All medication searches are processed locally or sent anonymously to medical databases. We do not track individual users or retain any personal information.
 
-For complete privacy details, see our [Privacy Policy](https://arturstorsters.github.io/).
+For complete privacy details, see our [Privacy Policy](https://arturstorsters.github.io/privacy-policy).
 
 ## Intellectual Property
 
