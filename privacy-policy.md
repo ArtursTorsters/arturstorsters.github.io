@@ -1,88 +1,125 @@
-Privacy Policy for LactaMed
+Privacy Policy – LactaMed
 
-Last updated: November 22, 2024
-Effective date: November 22, 2024
+Last Updated: November 22, 2024
+Effective Date: November 22, 2024
 
-Summary
+1. Introduction
 
-LactaMed does not collect, store, or share any personal data.
-The app operates entirely on your device and does not require accounts, registration, or any form of data collection.
+This Privacy Policy describes how LactaMed (“the App,” “we,” “us,” or “our”) collects, uses, and protects information.
+LactaMed is designed to respect and protect user privacy.
+The App does not collect, store, process, share, or sell any personal data.
 
-Information We Do NOT Collect
+By using LactaMed, you acknowledge that you have read and understood this Privacy Policy.
 
-LactaMed does not collect:
+2. Information We Do Not Collect
 
-Personal information (names, email addresses, phone numbers)
+LactaMed does not collect or process any information that could identify you or your device. Specifically, we do not collect:
+
+Personal identifiers (such as name, email address, phone number)
 
 Location data
 
-Device identifiers
+Device identifiers or diagnostic information
 
-Usage analytics
+Search history (aside from local, on-device caching)
 
-Search history (except cached locally on your device)
+Health data
 
-Health information
+Usage analytics or behavior data
 
-Any form of user tracking
+Advertising identifiers
 
-How the App Works
+Any form of tracking or profiling information
 
-Local Storage Only: Search results are cached locally using AsyncStorage for offline access. This data never leaves your device.
+The App does not include analytics SDKs, advertising SDKs, or third-party tracking technologies.
 
-No User Accounts: No account creation or login is required.
+3. How the App Operates
 
-No Analytics: We do not use analytics tools or tracking services.
+All features of LactaMed operate locally on your device.
 
-No Advertisements: The app contains no ads and does not use advertising identifiers.
+3.1 Local Storage
 
-Data Source
+Certain search results may be temporarily cached on your device to improve offline usability. This data:
 
-LactaMed retrieves medication data from the public database at e-lactancia.org.
+Remains on your device
 
-When you search for a medication:
+Is not transmitted to any external service
 
-Your search query is sent directly to e-lactancia.org
+Can be cleared at any time through device settings or by uninstalling the App
 
-No personal information is included in the request
+3.2 No Account or Registration
 
-Results are cached locally on your device for 30 days
+The App does not require or support user accounts or authentication.
+We do not have access to any information about the user.
 
-Third-Party Services
+3.3 No Advertising
 
-LactaMed connects only to:
+LactaMed does not display advertisements and does not integrate advertising networks or identifiers.
 
-e-lactancia.org — for medication safety information (no personal data is sent)
+4. Data Sources and Network Requests
 
-Our API server — used only as a proxy to fetch medication data (no user data is collected or logged)
+LactaMed retrieves publicly available medication safety information from external sources in order to provide app functionality.
 
-Data Security
+4.1 e-lactancia.org
 
-Because we do not collect any data, there is no risk of personal information being exposed through our service. All cached data stays on your device and can be cleared at any time by uninstalling the app or clearing the app cache.
+Search requests are directed to e-lactancia.org to obtain medication compatibility data.
+No personal data or identifiers are included in these requests.
 
-Children’s Privacy
+4.2 Proxy Server
 
-LactaMed is intended for adults (breastfeeding mothers and healthcare providers). We do not knowingly collect information from children under 13, as we do not collect user information at all.
+A secure proxy server may be used to facilitate or optimize the retrieval of medication information.
+The proxy server:
 
-Your Rights
+Does not collect or log any personal data
 
-Since we do not collect personal data, there is no personal information stored on our servers to access, modify, or delete.
-You may clear locally cached data by:
+Does not track user activity
 
-Clearing the app’s cache via device settings
+Does not store search data linked to a user
 
-Uninstalling the app
+5. Data Security
 
-Changes to This Policy
+Because we do not collect or store personal information, there is no risk of user data being compromised on our systems.
 
-Updates to this policy will be posted here with a new revision date. Because we do not collect user data, we cannot notify users directly of changes.
+Users maintain full control over any locally cached information stored on their devices.
 
-Open Source
+6. Children’s Privacy
 
-LactaMed’s privacy practices can be verified through its open-source code on GitHub.
+LactaMed is intended for adult users, including breastfeeding mothers and healthcare professionals.
 
-Contact Information
+We do not knowingly collect information from children under 13 years of age.
+The App is designed in such a way that no user information is collected from any user, regardless of age.
 
-If you have any questions, contact us at:
+7. Your Rights and Choices
+
+Because LactaMed does not collect personal data:
+
+We have no access to user information
+
+We cannot provide, modify, or delete any data
+
+We cannot process data access or removal requests
+
+Any locally cached information can be deleted by:
+
+Clearing the App cache
+
+Uninstalling the App
+
+8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+When changes are made, the updated version will be made available within the App or its associated website, along with the date of the update.
+
+We cannot notify users directly because we do not collect contact information.
+
+9. Open Source Transparency
+
+LactaMed is an open-source project. Users may review the App’s codebase and verify our privacy practices at:
+
+https://github.com/ArtursTorsters/LactamedApp
+
+10. Contact Information
+
+If you have questions or concerns about this Privacy Policy, you may contact us at:
 
 Email: arturstorsters@gmail.com
