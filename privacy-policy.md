@@ -114,12 +114,16 @@ We cannot notify users directly because we do not collect contact information.
 
 9. Open Source Transparency
 
-LactaMed is an open-source project. Users may review the App’s codebase and verify our privacy practices at:
-
-https://github.com/ArtursTorsters/LactamedApp
+LactaMed is not an open-source project.
 
 10. Contact Information
 
 If you have questions or concerns about this Privacy Policy, you may contact us at:
 
-Email: arturstorsters@gmail.com
+Email: labsoftoasty@gmail.com
+
+11. Medical Disclaimer
+
+LactaMed provides general, informational insights based on public data sources regarding the compatibility of medications with breastfeeding.
+This information constitutes general educational information only and is not a substitute for professional medical advice.
+Always consult a qualified healthcare provider regarding medical decisions.
