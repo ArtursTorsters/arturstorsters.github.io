@@ -1,19 +1,19 @@
-Privacy Policy – LactaMed
+Privacy Policy – LactaHelp
 
 Last Updated: November 22, 2025
 Effective Date: November 22, 2025
 
 1. Introduction
 
-This Privacy Policy describes how LactaMed (“the App,” “we,” “us,” or “our”) collects, uses, and protects information.
-LactaMed is designed to respect and protect user privacy.
+This Privacy Policy describes how LactaHelp (“the App,” “we,” “us,” or “our”) collects, uses, and protects information.
+LactaHelp is designed to respect and protect user privacy.
 The App does not collect, store, process, share, or sell any personal data.
 
-By using LactaMed, you acknowledge that you have read and understood this Privacy Policy.
+By using LactaHelp, you acknowledge that you have read and understood this Privacy Policy.
 
 2. Information We Do Not Collect
 
-LactaMed does not collect or process any information that could identify you or your device. Specifically, we do not collect:
+LactaHelp does not collect or process any information that could identify you or your device. Specifically, we do not collect:
 
 Personal identifiers (such as name, email address, phone number)
 
@@ -35,7 +35,7 @@ The App does not include analytics SDKs, advertising SDKs, or third-party tracki
 
 3. How the App Operates
 
-All features of LactaMed operate locally on your device.
+All features of LactaHelp operate locally on your device.
 
 3.1 Local Storage
 
@@ -54,11 +54,11 @@ We do not have access to any information about the user.
 
 3.3 No Advertising
 
-LactaMed does not display advertisements and does not integrate advertising networks or identifiers.
+LactaHelp does not display advertisements and does not integrate advertising networks or identifiers.
 
 4. Data Sources and Network Requests
 
-LactaMed retrieves publicly available medication safety information from external sources in order to provide app functionality.
+LactaHelp retrieves publicly available medication safety information from external sources in order to provide app functionality.
 
 4.1 e-lactancia.org
 
@@ -84,14 +84,14 @@ Users maintain full control over any locally cached information stored on their 
 
 6. Children’s Privacy
 
-LactaMed is intended for adult users, including breastfeeding mothers and healthcare professionals.
+LactaHelp is intended for adult users, including breastfeeding mothers and healthcare professionals.
 
 We do not knowingly collect information from children under 13 years of age.
 The App is designed in such a way that no user information is collected from any user, regardless of age.
 
 7. Your Rights and Choices
 
-Because LactaMed does not collect personal data:
+Because LactaHelp does not collect personal data:
 
 We have no access to user information
 
@@ -114,7 +114,7 @@ We cannot notify users directly because we do not collect contact information.
 
 9. Open Source Transparency
 
-LactaMed is not an open-source project.
+LactaHelp is not an open-source project.
 
 10. Contact Information
 
@@ -124,6 +124,6 @@ Email: labsoftoasty@gmail.com
 
 11. Medical Disclaimer
 
-LactaMed provides general, informational insights based on public data sources regarding the compatibility of medications with breastfeeding.
+LactaHelp provides general, informational insights based on public data sources regarding the compatibility of medications with breastfeeding.
 This information constitutes general educational information only and is not a substitute for professional medical advice.
 Always consult a qualified healthcare provider regarding medical decisions.
