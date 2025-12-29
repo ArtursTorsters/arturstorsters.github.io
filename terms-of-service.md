@@ -1,15 +1,15 @@
-# Terms of Service for LactaMed
+# Terms of Service for LactaHelp
 
 **Effective Date:** 15.09.2025
 **Last Updated:** 15.09.2025
 
 ## Acceptance of Terms
 
-By downloading, installing, or using LactaMed, you agree to these Terms of Service. If you do not agree, do not use the app.
+By downloading, installing, or using LactaHelp, you agree to these Terms of Service. If you do not agree, do not use the app.
 
 ## Description of Service
 
-LactaMed provides general educational information about medication compatibility with breastfeeding. The app aggregates publicly available data from medical databases and research sources.
+LactaHelp provides general educational information about medication compatibility with breastfeeding. The app aggregates publicly available data from medical databases and research sources.
 
 ## MEDICAL DISCLAIMER AND LIMITATIONS
 
@@ -31,7 +31,7 @@ LactaMed provides general educational information about medication compatibility
 
 ## Permitted Use
 
-You may use LactaMed for:
+You may use LactaHelp for:
 - Personal, educational purposes
 - Preparing questions for healthcare providers
 - General information about breastfeeding and medications
@@ -51,7 +51,7 @@ This app may access external medical databases (such as e-lactancia.org) to prov
 
 ## Data Collection and Privacy
 
-LactaMed does not collect, store, or transmit any personal data including:
+LactaHelp does not collect, store, or transmit any personal data including:
 - No user accounts or profiles
 - No search history storage
 - No personal health information
