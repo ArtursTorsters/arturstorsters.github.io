@@ -1,7 +1,7 @@
 Privacy Policy – LactaMed
 
-Last Updated: November 22, 2024
-Effective Date: November 22, 2024
+Last Updated: November 22, 2025
+Effective Date: November 22, 2025
 
 1. Introduction
 
